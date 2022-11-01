@@ -1,0 +1,11 @@
+C:\Users\user\Desktop\4th project\Printer1\Printer1\bin\Debug\Printer1.exe.config
+C:\Users\user\Desktop\4th project\Printer1\Printer1\bin\Debug\Printer1.exe
+C:\Users\user\Desktop\4th project\Printer1\Printer1\bin\Debug\Printer1.pdb
+C:\Users\user\Desktop\4th project\Printer1\Printer1\obj\Debug\Printer1.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\4th project\Printer1\Printer1\obj\Debug\Printer1.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\4th project\Printer1\Printer1\obj\Debug\Printer1.Form1.resources
+C:\Users\user\Desktop\4th project\Printer1\Printer1\obj\Debug\Printer1.Properties.Resources.resources
+C:\Users\user\Desktop\4th project\Printer1\Printer1\obj\Debug\Printer1.csproj.GenerateResource.cache
+C:\Users\user\Desktop\4th project\Printer1\Printer1\obj\Debug\Printer1.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\4th project\Printer1\Printer1\obj\Debug\Printer1.exe
+C:\Users\user\Desktop\4th project\Printer1\Printer1\obj\Debug\Printer1.pdb
